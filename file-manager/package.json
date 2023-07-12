@@ -1,0 +1,12 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "file manager task",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js -- --username=Falderian"
+  },
+  "author": "Falderian",
+  "license": "ISC"
+}
